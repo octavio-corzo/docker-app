@@ -1,0 +1,14 @@
+{
+  "name": "app-docker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grupo 5 praciticas iniciales F-",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
